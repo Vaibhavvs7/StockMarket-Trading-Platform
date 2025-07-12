@@ -1,0 +1,13 @@
+.inputs fieldset input:disabled {
+    cursor: not-allowed;
+    background-color: transparent;
+}
+
+.btn-blue:hover {
+    background: #74a7fa;
+}
+
+.btn-grey:hover {
+    background: #9b9b9b;
+    color: #fff;
+}
